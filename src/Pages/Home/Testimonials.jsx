@@ -2,7 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import Loader from "../../components/Loader";
 import SectionTitle from "../../components/SectionTitle";
 import useAxiosPublic from "../../hooks/useAxiosPublic";
-// import Review from "./Review";
+import Review from "./Review";
 
 // import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles

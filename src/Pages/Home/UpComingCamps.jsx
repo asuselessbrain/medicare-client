@@ -2,7 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import Loader from "../../components/Loader";
 import SectionTitle from "../../components/SectionTitle";
 import useAxiosPublic from "../../hooks/useAxiosPublic";
-import CampDetailsCard from "../Shared/CampDetailsCard";
+// import CampDetailsCard from "../Shared/CampDetailsCard";
 
 const UpComingCamps = () => {
     const axios = useAxiosPublic();
