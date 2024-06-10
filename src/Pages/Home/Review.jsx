@@ -1,7 +1,7 @@
 import { Rating } from "@smastrom/react-rating";
 
 const Review = ({ review }) => {
-    const { camp_name, date, participant_name, participant_image, feedback, rating } = review;
+    // const { camp_name, date, participant_name, participant_image, feedback, rating } = review;
 
     return (
       <div className="p-4 md:w-1/2 w-full">
