@@ -2,7 +2,7 @@ import { Modal } from "flowbite-react";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import toast from "react-hot-toast";
-// import { BiErrorCircle } from "react-icons/bi";
+import { BiErrorCircle } from "react-icons/bi";
 import {
     CiBadgeDollar,
     CiCalendarDate,
