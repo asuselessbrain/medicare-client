@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import Loader from "../../components/Loader";
 import SectionTitle from "../../components/SectionTitle";
 import useAxiosPublic from "../../hooks/useAxiosPublic";
-import CampCard from "../Shared/CampCard";
+// import CampCard from "../Shared/CampCard";
 
 const PopularCamps = () => {
     const axios = useAxiosPublic();
